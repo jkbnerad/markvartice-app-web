@@ -1,0 +1,2 @@
+// Prázdný JS soubor
+

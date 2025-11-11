@@ -1,0 +1,21 @@
+# Node.js dependencies (pokud používáte npm/yarn)
+node_modules/
+
+# Build výstupy
+dist/
+build/
+
+# Editor/IDE soubory
+.vscode/
+.idea/
+
+# Systémové soubory
+.DS_Store
+Thumbs.db
+
+# Logy
+*.log
+
+# Env proměnné
+.env
+.env.local
